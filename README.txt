@@ -1,4 +1,4 @@
-# Script_DirBuster-Deep_Doctor
+# Script_DirBuster-Cr0w
 ---
 PT-BR:
 Título: Script DirBuster
@@ -14,7 +14,7 @@ For installation, run the command "pip install -r requirements.txt" in terminal.
 To use DirBuster, use the command "python dirbust.py url wordlist". For example:
 python dirbust.py http://example.com/ wordlist.txt /
 ---
-Autor: Pablo Ferreira ~ Deep Doctor
-Data: Mar 2021
-https://github.com/DeepDoctor
+Autor: Pablo Ferreira ~ Cr0w
+Data: Jan 2022
+https://github.com/Cr0wPabloF
 http://www.linkedin.com/in/pablofsousa0706/

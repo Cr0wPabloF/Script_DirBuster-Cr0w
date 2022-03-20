@@ -24,4 +24,4 @@ python dirbust.py http://example.com/ wordlist.txt/
 Autor: Pablo Ferreira ~ Cr0w
 Data: Jan 2022
 https://github.com/Cr0wPabloF
-http://www.linkedin.com/in/pablofsousa0706/
+https://www.linkedin.com/in/pablofsousa07/
